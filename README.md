@@ -33,3 +33,13 @@ The data is processed in different ways depending on what business question we t
 ## Analysing Data
 Once the data is completely processed into graphs. We can see the data insight. Here is a full report of this data [LINK](https://nontawat149.medium.com/tracking-progress-of-covid-19-vaccination-program-worldwide-d973951b2517). 
 
+**Key Summary (data is until 2 April 2021)**
+
+[1] Gibraltar has been built herd immunity by more than 80% of population, following by Israel (more than 50%), Seychelles (nearly 40%), and Cayman Islands (about 30%). United States of America, Chile, and United Arab Emirates have currently progress about 20%. Many countries in Europe including Russia and Brazil starts having herd immunity by vaccine, but they are still low, which are about 10% or less.
+
+![Progress of Vaccination Program](https://miro.medium.com/max/1412/1*Y5SWGyISzuPOwRs2S1tAlg.png)
+
+[2] China, United State, India, United Kingdom and Brazil are recently providing a big number of vaccine to their people per day, which they are the top 5 countries.
+
+[3] Oxford/AstraZeneca vaccine is the most used, it is now used in 100 countries such as United Kingdom, United Arab Emirates, India, Brazil, and Thailand, but currently not in the United States of America.
+
