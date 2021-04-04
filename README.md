@@ -3,7 +3,7 @@
 ## Introduction
 People around the world are waiting for resuming to their normal life since the pamdemic (Covid-19) started in early 2020. One of the best ways that people could have a normal life is vaccine. Many countries starts provide a covid-19 vaccine for many people. This code is to provide data analytics to see how progress we are about Covid-19 vaccination program around the world.
 
-The data is originally from [Our World Data](https://ourworldindata.org/). However, it has been done the pre-processing data and is provided in csv format by Gabriel Preda on [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/). This code will process this data and visualise to find data insight.
+The data is originally from [Our World in Data](https://ourworldindata.org/). However, it has been done the pre-processing data and is provided in csv format by Gabriel Preda on [Kaggle](https://www.kaggle.com/gpreda/covid-world-vaccination-progress/). This code will process this data and visualise to find data insight.
 
 This code is developed in Python (3.7.6) and uses some frameworks related to data analytics.
 * Pandas (1.2.1) : to do data processing
